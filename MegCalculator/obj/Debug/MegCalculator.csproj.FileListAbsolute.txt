@@ -1,0 +1,10 @@
+C:\Users\sicel\source\repos\MegCalculator\MegCalculator\bin\Debug\MegCalculator.exe.config
+C:\Users\sicel\source\repos\MegCalculator\MegCalculator\bin\Debug\MegCalculator.exe
+C:\Users\sicel\source\repos\MegCalculator\MegCalculator\bin\Debug\MegCalculator.pdb
+C:\Users\sicel\source\repos\MegCalculator\MegCalculator\obj\Debug\MegCalculator.csprojAssemblyReference.cache
+C:\Users\sicel\source\repos\MegCalculator\MegCalculator\obj\Debug\MegCalculator.megCalculator.resources
+C:\Users\sicel\source\repos\MegCalculator\MegCalculator\obj\Debug\MegCalculator.Properties.Resources.resources
+C:\Users\sicel\source\repos\MegCalculator\MegCalculator\obj\Debug\MegCalculator.csproj.GenerateResource.cache
+C:\Users\sicel\source\repos\MegCalculator\MegCalculator\obj\Debug\MegCalculator.csproj.CoreCompileInputs.cache
+C:\Users\sicel\source\repos\MegCalculator\MegCalculator\obj\Debug\MegCalculator.exe
+C:\Users\sicel\source\repos\MegCalculator\MegCalculator\obj\Debug\MegCalculator.pdb
